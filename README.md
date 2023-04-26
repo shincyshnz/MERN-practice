@@ -3,7 +3,7 @@
 # Validation onChange and OnBlur
 
 
-![Form](validation.png)
+![Validation](validation.png)
 
 
-![User List](Success.png)
+![Form Submit](Success.png)
